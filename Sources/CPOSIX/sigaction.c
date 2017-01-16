@@ -28,6 +28,7 @@
 
 #include <signal.h>
 #include <errno.h>
+#include <stdio.h>
 #include "posix.h"
 
 /*

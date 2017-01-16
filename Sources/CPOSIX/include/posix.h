@@ -42,6 +42,6 @@ typedef void (* cposix_signal_handler)(int);
  * Prototypes
  */
 
-int CPOSIXInstallSignalhandler(int, int, cposix_signal_handler);
+int CPOSIXInstallSignalHandler(int, int, cposix_signal_handler);
 
 #endif
