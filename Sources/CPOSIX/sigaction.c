@@ -29,7 +29,7 @@
 #include <signal.h>
 #include <errno.h>
 #include <stdio.h>
-#include "posix.h"
+#include "include/posix.h"
 
 /*
  * This function installs a signal handler based on provided options.
